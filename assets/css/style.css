@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header img {
+  border: 3px solid rgb(255, 255, 255);
+  object-fit: cover;
+}
+
+h2 {
+  margin-bottom: 1em;
+}
+
+ul {
+  padding-left: 1.2em;
+}
+
+section {
+  background-color: white;
+  padding: 2em;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
