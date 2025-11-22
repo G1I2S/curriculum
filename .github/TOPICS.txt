@@ -1,0 +1,15 @@
+cv
+curriculum-vitae
+portfolio
+html5
+css3
+bootstrap5
+responsive-design
+web-design
+ux-ui
+personal-website
+resume
+curriculum
+web-cv
+frontend
+diseño-web
